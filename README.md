@@ -31,11 +31,11 @@ The complexity of the algorithm is O(nlogn)
 
 Explaination: 
 
-  Sorting of X and Y values => O(nlogn)
-  Splitting of X sorted and Y sorted values => n 
-  Recursive call for the left part for the right part =>T(n/2)+T(n/2)
-  Finding the points that are in the band => n
-  For checking the six points in the band for every point => 6n
+  1.Sorting of X and Y values => O(nlogn)
+  2.Splitting of X sorted and Y sorted values => n 
+  3.Recursive call for the left part for the right part =>T(n/2)+T(n/2)
+  4.Finding the points that are in the band => n
+  5.For checking the six points in the band for every point => 6n
 
 ## Test Cases:
 ```
