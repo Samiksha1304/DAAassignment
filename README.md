@@ -1,4 +1,4 @@
-# Closest Pair Problem Daa Assignment
+# Daa Assignment-Closest Pair Problem
 
 ### Name - Samiksha Anasane
 ### Roll no- 18
